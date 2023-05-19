@@ -87,7 +87,7 @@
     {
       "name": "hh_frankfurt",
       "format": "csv",
-      "path": "https://storage.openspending.org/hh_frankfurt.csv",
+      "path": "https://storage.openspending.org/frankfurt-am-main/hh_frankfurt.csv",
       "mediatype": "text/csv",
       "bytes": 786935,
       "dialect": {
