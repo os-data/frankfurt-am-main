@@ -79,6 +79,10 @@
   "promise": {},
   "regionCode": "eu",
   "countryCode": "DE",
+  "fiscalPeriod": {
+     "start": "2015-01-01",
+    "end": "2020-12-31"
+  },
   "cityCode": "Frankfurt am Main",
   "title": "Frankfurt am Main",
   "name": "frankfurt_a_m",
